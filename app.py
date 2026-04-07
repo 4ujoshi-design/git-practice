@@ -1,1 +1,1 @@
-print("Login feature added")
+print("Logout feature added")
